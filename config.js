@@ -4,15 +4,15 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['59160580623', '𝙾𝙵𝙲 𝙴𝙳𝚈', true],
+  ['59160580623', '𝙾𝙵𝙲 𝙴𝙳𝚈', true],
 ]
-global.suittag =['5212412477467']
+global.suittag =['59160580623']
 global.mods = []
-global.prems = ['5212412474767'], 
-global.prems = ['5212412377467'],
+global.prems = ['59160580623'], 
+global.prems = ['59160580623'],
 
-global.packname = '⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍'
+global.packname = '⫷᭄©𝙻𝙰-𝚁𝙾𝙱𝙾𝚃𝙸𝙽𝙰-𝙱𝙾𝚃﹏✍'
 global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
 global.vs = '1.10.90'
 global.version = vs
